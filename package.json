@@ -1,0 +1,19 @@
+{
+  "name": "dli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "5",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "5",
+    "ora": "5"
+  }
+}
